@@ -1,5 +1,0 @@
-streamlit
-mysql-connector-python
-reportlab
-matplotlib
-python-dotenv
