@@ -74,7 +74,7 @@ snj-bank/
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/Swayam0507/Bank-Management.git
+git clone https://github.com/Swayam0507/Bank-Management.git
 cd Bank-Management
 ```
 
