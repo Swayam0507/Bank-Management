@@ -74,8 +74,8 @@ snj-bank/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/snj-bank.git
-cd snj-bank
+[git clone https://github.com/Swayam0507/Bank-Management.git
+cd Bank-Management
 ```
 
 ### 2. Create a Virtual Environment
